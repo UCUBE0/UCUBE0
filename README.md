@@ -1,0 +1,4 @@
+- 👋 Selamlar , Ben UCUBE.
+- 👀 C# ile ilgilendim. Biliyor sayılmam.
+- 🌱 Şu an web developing ile ilgileniyorum.
+- 📫 Bana instagram'dan "@furki.dlll" adresi ile ulaşabilirsiniz.
